@@ -3,7 +3,7 @@
   "description": "A TypeScript starter for Next.js that includes all you need to build amazing projects",
   "version": "1.0.0",
   "private": true,
-  "author": "João Pedro Schmitz <hey@joaopedro.dev> (@jpedroschmitz)",
+  "author": "Leonardo Nunes Bezerra Souza <leonunesbs@gmail.com> (@leonunesbs)",
   "license": "MIT",
   "keywords": [
     "nextjs",
@@ -26,6 +26,7 @@
     ]
   },
   "dependencies": {
+    "firebase": "9.9.3",
     "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
