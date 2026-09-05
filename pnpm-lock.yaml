@@ -13,7 +13,7 @@ specifiers:
   eslint-config-prettier: 8.5.0
   eslint-import-resolver-typescript: 3.4.2
   eslint-plugin-import: 2.26.0
-  eslint-plugin-prettier: 4.2.1
+  eslint-plugin-prettier: 4.2.5
   firebase: 9.9.3
   husky: 8.0.1
   lint-staged: 13.0.3
@@ -42,7 +42,7 @@ devDependencies:
   eslint-config-prettier: 8.5.0_eslint@8.22.0
   eslint-import-resolver-typescript: 3.4.2_2iahngt3u2tkbdlu6s4gkur3pu
   eslint-plugin-import: 2.26.0_s6f7spxf43rfknbsivdq2mydle
-  eslint-plugin-prettier: 4.2.1_i2cojdczqdiurzgttlwdgf764e
+  eslint-plugin-prettier: 4.2.5_i2cojdczqdiurzgttlwdgf764e
   husky: 8.0.1
   lint-staged: 13.0.3
   prettier: 2.7.1
@@ -2002,8 +2002,8 @@ packages:
       semver: 6.3.0
     dev: true
 
-  /eslint-plugin-prettier/4.2.1_i2cojdczqdiurzgttlwdgf764e:
-    resolution: {integrity: sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ==}
+  /eslint-plugin-prettier/4.2.5_i2cojdczqdiurzgttlwdgf764e:
+    resolution: {integrity: sha512-9Ni+xgemM2IWLq6aXEpP2+V/V30GeA/46Ar629vcMqVPodFFWC9skHu/D1phvuqtS8bJCFnNf01/qcmqYEwNfg==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       eslint: '>=7.28.0'
